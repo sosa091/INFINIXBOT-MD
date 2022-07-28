@@ -2,12 +2,12 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 global.owner = [
-  ['56977774748'], //cambia aqui para ser el owner
-  ['447441419651'],
-  ['56977774748', '©Odin™✓', true]
+  ['5219531393404'], //cambia aqui para ser el owner
+  ['5219531068159'],
+  ['5219531393404', '©Odin™✓', true]
 ] // Pon tu número aquí
-global.mods = ['50495745934'] // ¿Quieres ayuda?
-global.prems = ['56954940391',] //aqui pon el numero para agregar usuarios premium si no se guarda con el comando #addprem
+global.mods = ['5219531068159'] // ¿Quieres ayuda?
+global.prems = ['595981842801,] //aqui pon el numero para agregar usuarios premium si no se guarda con el comando #addprem
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
